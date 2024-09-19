@@ -41,7 +41,7 @@ return ()=>{
 
   return (
     <div>
-      <h1 onClick={handlecount}>Product -{count}</h1>
+      <h1 onClick={handlecount}>Aruns -{count}</h1>
 
 
 
